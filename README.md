@@ -2,7 +2,7 @@
 
 This is a simple progress bar components.<br/>
 
-It can show the user which steps they are in progress—for example, shopping on line.<br/>
+We can use button [Prev] and [Next] to control the steps to show the user which steps they are in progress—for example, shopping on line.<br/>
 
 ### This side-project has four components:
 1. progress - the blue line to extend the width of each step.
